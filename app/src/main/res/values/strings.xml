@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="plan_name">Professional</string>
+    <string name="price_per">$10</string>
+    <string name="per_user">/ user</string>
+    <string name="feature1">Unlimited projects</string>
+    <string name="feature2">Tutorial Pack</string>
+    <string name="feature3">200 Tb/s storage</string>
+</resources>
