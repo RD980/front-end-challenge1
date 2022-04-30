@@ -7,9 +7,7 @@ you will find:
 - custom corner ribbon/banner.
 
 
-https://user-images.githubusercontent.com/85403970/166084625-3bf4105a-4616-4923-98c0-70ee175d704e.mp4
+![gif1](https://user-images.githubusercontent.com/85403970/166085753-5d5be9de-2d2b-410f-a9b2-c6e93d625bd5.gif)
 
 
-
-https://user-images.githubusercontent.com/85403970/166084637-3acd59c1-bb5e-440f-8182-577bd29954c1.mp4
-
+![gif2](https://user-images.githubusercontent.com/85403970/166085763-49a37979-b99b-494f-989c-9be7fdb3efc4.gif)
